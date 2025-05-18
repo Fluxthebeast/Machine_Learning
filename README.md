@@ -17,7 +17,7 @@ For a quick overview of our key insights, check out our short explainer video:
 
 If you're curious about the technical side:
 
-- Our Python script (`Code`) contains the full analysis, including all package imports.
+- Our Python script ([Code](./Code.ipynb)) contains the full analysis, including all package imports.
 - It’s designed to run seamlessly in **Google Colab**.
 - You can find it either in this repository or in the shared Google Drive folder.
 
