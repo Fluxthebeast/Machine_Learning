@@ -13,6 +13,8 @@ To answer this, we conducted a comprehensive data analysis and statistical evalu
 For a quick overview of our key insights, check out our short explainer video:  
 [📂 Google Drive Folder](https://drive.google.com/drive/folders/16OSAKP3AEQeFXk41RryA7yzPed4q6G2h?usp=sharing)
 
+👉 Also, if you prefer reading and only have very limited time available: We’ve included a **60-second executive summary** of our findings directly in the repository for quick reference. You can find it [here](./Executive_summary.ipynb).
+
 ## 🧠 Technical Details
 
 If you're curious about the technical side:
